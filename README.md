@@ -1,2 +1,5 @@
-# macro-paladium
-Macro for the app "Macro Recorder", work with every hammer
+Install "macro recorder" 
+Click file and open
+Select "macro pala"
+Go to the mine with any hammer and start the macro
+3hours of mining
